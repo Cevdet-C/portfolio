@@ -1,7 +1,9 @@
 # Data Science Portfolio
 
 ### Education
-Rutgers
+Georgia Institute of Technology | Master of Science, Data Science 
+
+Rutgers University New Brunswick | Bachelor of Science, Civil Engineering
 
 ### Work Experience
 
