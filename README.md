@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-🔗 [LinkedIn](https://www.linkedin.com/in/cevdetcanli/)  
+👤 [LinkedIn](https://www.linkedin.com/in/cevdetcanli/)  
 💻 [GitHub](https://github.com/Cevdet-C)
 
 ---
@@ -70,7 +70,7 @@ Python, pandas, sklearn, XGBoost, SQL, etc.
 **Results:** Tuned XGBoost achieved 60% test accuracy and 0.70 weighted AUC. Team value, recent form, and scoring trends were top predictors; draws were hardest to predict due to class imbalance.
 **Tools:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib.
 
-🔗 [**Code:**](https://github.com/Cevdet-C/soccer-match-outcomes)
+📝 [**Code:**](https://github.com/Cevdet-C/soccer-match-outcomes)
 
 ---
 
