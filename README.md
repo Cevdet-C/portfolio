@@ -55,7 +55,6 @@ Bachelor of Science, Civil Engineering
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib.  
 
----
 
 ### 📈 Project Title
 **Problem:**  
@@ -63,8 +62,6 @@ Bachelor of Science, Civil Engineering
 **Approach:**  
 **Results:**  
 **Tools:**  
-
-🔗 [**Code:**]()
 
 ---
 
