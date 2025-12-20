@@ -70,7 +70,7 @@ Bachelor of Science, Civil Engineering
 **Languages:**  
 Python, R, SQL, MATLAB, C++ 
 
-**Packages:** 
+**Packages:**  
 Pandas, NumPy, SciPy, scikit-learn, PyTorch, TensorFlow, SQLite
 
 **Softwares & Tools:**  
