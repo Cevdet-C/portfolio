@@ -64,7 +64,8 @@ Python, pandas, sklearn, XGBoost, SQL, etc.
 ---
 
 ### ⚽ Predicting Soccer Match Outcomes
-📝 [**Code**](https://github.com/Cevdet-C/soccer-match-outcomes)
+📝 [**Code**](https://github.com/Cevdet-C/soccer-match-outcomes)  
+
 **Problem:** Predict English Premier League match outcomes (home win, draw, away win) using historical team and match data.  
 
 **Data:** Match stats (goals, shots, attendance, etc.) from 2020–2025 seasons and team values from Transfermarkt.  
