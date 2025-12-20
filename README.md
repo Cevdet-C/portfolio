@@ -11,7 +11,7 @@ Data Scientist with a strong engineering background, focused on applying machine
 ## Education
 **Georgia Institute of Technology**  
 Master of Science, Data Science  
-*Concentration:* Computational Data Analytics  
+*Concentration:* Computational Data Analytics    
 2024 - 2026
 
 **Rutgers University – New Brunswick**  
@@ -65,15 +65,15 @@ Python, pandas, sklearn, XGBoost, SQL, etc.
 
 ### ⚽ Predicting Soccer Match Outcomes
 📝 [**Code**](https://github.com/Cevdet-C/soccer-match-outcomes)
-**Problem:** Predict English Premier League match outcomes (home win, draw, away win) using historical team and match data.
+**Problem:** Predict English Premier League match outcomes (home win, draw, away win) using historical team and match data.  
 
-**Data:** Match stats (goals, shots, attendance, etc.) from 2020–2025 seasons and team values from Transfermarkt.
+**Data:** Match stats (goals, shots, attendance, etc.) from 2020–2025 seasons and team values from Transfermarkt.  
 
-**Approach:** Engineered features, built and compared models including Logistic Regression, Random Forest, and XGBoost with scaling, cross-validation, and hyperparameter tuning.
+**Approach:** Engineered features, built and compared models including Logistic Regression, Random Forest, and XGBoost with scaling, cross-validation, and hyperparameter tuning.  
 
-**Results:** Tuned XGBoost achieved 60% test accuracy and 0.70 weighted AUC. Team value, recent form, and scoring trends were top predictors; draws were hardest to predict due to class imbalance.
+**Results:** Tuned XGBoost achieved 60% test accuracy and 0.70 weighted AUC. Team value, recent form, and scoring trends were top predictors; draws were hardest to predict due to class imbalance.  
 
-**Tools:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib.
+**Tools:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib.  
 
 ---
 
