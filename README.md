@@ -74,7 +74,7 @@ Python, R, SQL, MATLAB, C++
 Pandas, NumPy, SciPy, scikit-learn, PyTorch, TensorFlow, SQLite
 
 **Softwares & Tools:**  
-AWS, Azure, MLOps, Gitlab, MySQL, Jupyter
+AWS, Azure, MLOps, CI/CD, Gitlab, MySQL, Jupyter
 
 **Visualization:**  
 Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly
