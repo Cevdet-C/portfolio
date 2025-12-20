@@ -70,14 +70,14 @@ Bachelor of Science, Civil Engineering
 **Languages:**  
 Python, R, SQL, MATLAB, C++ 
 
-**Machine Learning & Statistics:**  
-Regression, Classification, Clustering, Time Series, Feature Engineering, Model Evaluation
+**Packages:** 
+Pandas, NumPy, SciPy, scikit-learn, PyTorch, TensorFlow, SQLite
 
-**Data Engineering & Cloud:**  
-ETL, AWS (S3, EC2, Lambda), SQL Optimization
+**Softwares & Tools:**  
+AWS, Azure, MLOps, Gitlab, MySQL, Jupyter
 
 **Visualization:**  
-matplotlib, seaborn, Tableau, Power BI
+Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly
 
 ---
 _Last updated: [Jan 2026]_
