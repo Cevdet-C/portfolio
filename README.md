@@ -10,8 +10,8 @@ Data Scientist with a strong engineering background, focused on applying machine
 ---
 ## Education
 **Georgia Institute of Technology**  
-Master of Science, Data Science   
-*Concentration:* Computational Data Analytics
+Master of Science, Data Science  
+*Concentration:* Computational Data Analytics  
 2024 - 2026
 
 **Rutgers University – New Brunswick**  
