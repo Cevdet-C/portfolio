@@ -1,16 +1,21 @@
 # Data Science Portfolio
-**Cevdet Canli**
 
-🔗 LinkedIn: [https://www.linkedin.com/in/cevdetcanli/]  
-💻 GitHub: [https://github.com/Cevdet-C]
+🔗 [LinkedIn](https://www.linkedin.com/in/cevdetcanli/):  
+💻 [GitHub](https://github.com/Cevdet-C): 
 
 ---
 
-### Education
-Georgia Institute of Technology | Master of Science, Data Science 
+## About Me
+Short professional summary (2–3 sentences).
 
-Rutgers University New Brunswick | Bachelor of Science, Civil Engineering
+---
+## Education
+**Georgia Institute of Technology**  
+Master of Science, Data Science   
+*Concentration:* [Computational Data Analytics] 
 
-### Work Experience
+**Rutgers University – New Brunswick**  
+Bachelor of Science, Civil Engineering  
 
-### Projects
+---
+
