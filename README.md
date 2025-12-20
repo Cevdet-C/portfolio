@@ -81,7 +81,7 @@ Python, pandas, sklearn, XGBoost, SQL, etc.
 **Results:**  
 **Tools:**  
 
-🔗 **Code:** https://github.com/[username]/[repo-name]
+🔗 [**Code:**](https://github.com/Cevdet-C/soccer-match-outcomes)
 
 ---
 
