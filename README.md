@@ -42,8 +42,6 @@ Bachelor of Science, Civil Engineering
 
 ## Featured Projects
 
----
-
 ### ⚽ Predicting Soccer Match Outcomes
 📝 [**Code**](https://github.com/Cevdet-C/soccer-match-outcomes)  
 
