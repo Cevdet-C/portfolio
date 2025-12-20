@@ -41,25 +41,6 @@ Bachelor of Science, Civil Engineering
 ---
 
 ## Featured Projects
-> Click project titles to view code and documentation.
-
-### 📊 Project Title
-**Problem:**  
-What question were you trying to answer?
-
-**Data:**  
-Source, size, features, challenges
-
-**Approach:**  
-Models, techniques, assumptions
-
-**Results:**  
-Key metrics, insights, business value
-
-**Tools:**  
-Python, pandas, sklearn, XGBoost, SQL, etc.
-
-🔗 **Code:** https://github.com/[username]/[repo-name]
 
 ---
 
